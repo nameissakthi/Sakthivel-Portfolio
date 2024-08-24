@@ -86,7 +86,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>217 A, Sivagamipuram Street, Rajapalayam, Virudhunagar, <br />Tamilnadu, India - 606117</span>
+                  <span>Rajapalayam, Virudhunagar, Tamilnadu, <br /> India - 606117</span>
                 </div>
               </div>
               <div className="st-social-info">
