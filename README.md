@@ -1,0 +1,1 @@
+Hi there! I'm Sakthivel, a passionate computer science student with a good understanding of programming languages like C and Python. I am currently learning front-end technologies. Proficient in Java.

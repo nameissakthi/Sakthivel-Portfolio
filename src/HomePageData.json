@@ -1,0 +1,143 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.webp",
+    "title": "Sakthivel",
+    "subTitle": "Hello, I’m",
+    "designation": "Web Developer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.png",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Sakthivel",
+    "subtitle": "Web Developer",
+    "text": "I am a Web Developer with a good understanding of programming languages like C, Python. Proficient in Java, I'm always open to new challenges and learning opportunities that will enhance my journey as a software engineer",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "Oct 10, 2024"
+      },
+      {
+        "title": "Phone",
+        "info": "+91 6382968373"
+      },
+      {
+        "title": "Email",
+        "info": "svel7252@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Virudhunagar, TamilNadu, India."
+      },
+      {
+        "title": "Language",
+        "info": "English, Tamil"
+      }
+    ]
+  },
+  "skillsData": {
+    "skills": [
+      {
+        "imgLink": "/images/icon/react.png",
+        "title": "React",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/node-js.png",
+        "title": "Node JS",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/github.webp",
+        "title": "Github",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/javascript.webp",
+        "title": "JavaScript",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/npm.webp",
+        "title": "npm",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/bootstrap.svg",
+        "title": "Bootstrap",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/java.webp",
+        "title": "Java",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/mysql.webp",
+        "title": "MySQL",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/project1.png",
+        "imgLinkLg": "/images/portfolio/project1.png",
+        "url": "https://supermart-nine.vercel.app/",
+        "title": "Super-Mart",
+        "subTitle": "Ecommerce Webpage",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected"
+  },
+  "socialData": [
+    {
+      "pack": "nimbus",
+      "icon": "mail",
+      "title": "Email"  ,
+      "link": "mailto:svel7252@gmail.com"
+    },
+    {
+      "pack": "fa6-brands",
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/nameissakthi"
+    },
+    {
+      "pack": "fa6-brands",
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "https://x.com/sakthi_vel_D"
+    },
+    {
+      "pack": "fa6-brands",
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://linkedin.com/in/sakthiveldhanushkodi"
+    }
+  ]
+}
