@@ -46,7 +46,7 @@ const Contact = ({ data, socialData }) => {
                 <input type="text" id="name" name="name" placeholder="Your Name" required />
               </div>
               <div className="st-form-field">
-                <input type="text" id="email" name="email" placeholder="Your Email" required />
+                <input type="text" id="email" name="clientemail" placeholder="Your Email" required />
               </div>
               <div className="st-form-field">
                 <input type="text" id="subject" name="subject" placeholder="Your Subject" required />
