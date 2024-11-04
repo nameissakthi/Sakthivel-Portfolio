@@ -11,7 +11,7 @@
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Sakthivel",
     "subtitle": "Web Developer",
-    "text": "I am a Web Developer with a good understanding of programming languages like C, Python. Proficient in Java, I'm always open to new challenges and learning opportunities that will enhance my journey as a software engineer",
+    "text": "I am a MERN Stack Developer with a good understanding of programming languages like C, Python. Proficient in Java, I'm always open to new challenges and learning opportunities that will enhance my journey as a software engineer",
     "details": [
       {
         "title": "Birthday",
@@ -103,6 +103,16 @@
         "url": "https://supermart-nine.vercel.app/",
         "title": "Super-Mart",
         "subTitle": "Ecommerce Webpage",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/project2.png",
+        "imgLinkLg": "/images/portfolio/project2.png",
+        "url": "https://fashionnow.vercel.app/",
+        "title": "Fashion Now",
+        "subTitle": "Clothing Website",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
