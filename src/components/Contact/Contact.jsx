@@ -10,19 +10,21 @@ import { toast } from 'react-toastify';
 import 'react-toastify/ReactToastify.css'
 
 const Contact = ({ data, socialData }) => {
+
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_8uqtqtc', 'template_n3pq2fn', form.current, {
-        publicKey: 'G4ZUYlLooYNQKCEsW',
+      .sendForm(import.meta.env.VITE_SERVICE_ID, import.meta.env.VITE_TEMPLATE_ID, form.current, {
+        publicKey: import.meta.env.VITE_PUBLIC_KEY,
       })
       .then(
         () => {
           console.log('SUCCESS!');
           toast.success("Message Send Successfully");
+          form.current.reset();
         },
         (error) => {
           console.log('FAILED...', error.text);
