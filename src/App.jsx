@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import { HelmetProvider } from "react-helmet-async"
+import { Analytics } from '@vercel/analytics/next';
 
 function App() {
   useEffect(() => {
@@ -16,6 +17,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
+            <Analytics />
           </Route>
         </Routes>
       </BrowserRouter>
