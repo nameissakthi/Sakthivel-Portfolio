@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Developed by Sakthivel | All right reserved.</div>
+          <div className="st-copyright-text">❤️ from Sakthivel</div>
         </div>
       </div>
     </footer>

@@ -31,7 +31,7 @@
       },
       {
         "title": "Language",
-        "info": "English, Tamil"
+        "info": "Tamil, English"
       }
     ]
   },
@@ -43,6 +43,13 @@
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/springboot.png",
+        "title": "Spring Boot",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
       },
       {
         "imgLink": "/images/icon/node-js.png",
@@ -73,8 +80,8 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/icon/bootstrap.svg",
-        "title": "Bootstrap",
+        "imgLink": "/images/icon/tailwind.png",
+        "title": "Tailwind CSS",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -89,6 +96,27 @@
       {
         "imgLink": "/images/icon/mysql.webp",
         "title": "MySQL",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/mongodb.png",
+        "title": "MongoDB",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/vercel.png",
+        "title": "Vercel",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/docker.png",
+        "title": "Docker",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -116,6 +144,16 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/project3.png",
+        "imgLinkLg": "/images/portfolio/project3.png",
+        "url": "https://billing-system-frontend.vercel.app/",
+        "title": "Billing System",
+        "subTitle": "Billing website for Supermarkets",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
       }
     ]
   },
@@ -136,12 +174,6 @@
       "icon": "github",
       "title": "Github",
       "link": "https://github.com/nameissakthi"
-    },
-    {
-      "pack": "fa6-brands",
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "https://x.com/sakthi_vel_D"
     },
     {
       "pack": "fa6-brands",
