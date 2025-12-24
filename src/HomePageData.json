@@ -154,6 +154,16 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/project4.png",
+        "imgLinkLg": "/images/portfolio/project4.png",
+        "url": "https://my-diary-web.vercel.app/",
+        "title": "Diary Web App",
+        "subTitle": "Diary to store memorable moments",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
       }
     ]
   },
